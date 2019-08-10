@@ -17,7 +17,7 @@ package com.java.array;
  *          C:静态初始化的简化写法   
  *             数据类型[] 数组名 = {元素1,元素2,.......}
  * @author Mr.振
- *
+ *的发射点发射点发射点
  */
 public class ReviewArray {
        public static void main(String[] args) {
